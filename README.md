@@ -4,7 +4,7 @@ I’m a software engineer focused on building reliable and trustworthy systems. 
 My strongest suit is that I can learn anything, and that speed has multiplied with AI.
 
 ### Selected Projects
-Right now, I'm working on updating **PalAST**: a ML pipeline for Automated Disk Diffusion Antimicrobial Susceptibility Testing using Flask and OpenCV
+Right now, I'm working on updating **[PalAST](https://github.com/GhadeerHayek/AST-Flask)**: a ML pipeline for Automated Disk Diffusion Antimicrobial Susceptibility Testing using Flask and OpenCV.<br>
 I am also diving deeper into AI agents with my _upcoming_ project  **GoldPath**: The blessed stack for a pipeline for AI agents to ship software without human in the loop using Claude Code and GitHub Actions.
 
 ### Personal Blog
