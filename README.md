@@ -1,14 +1,17 @@
 # Hi, I'm Ghadeer 👋
 
-### 🛠️ How I Work & Current Focus
-I’m a software engineer focused on building reliable, trustworthy web applications and backend systems.
-My engineering philosophy revolves around writing high-quality, well-documented code, and understanding the core trade-offs of the tools I use. 
-Right now, I'm working on **PalAST** -a ML pipeline for Automated Disk Diffusion Antimicrobial Susceptibility Testing using Flask and OpenCV-
-while diving deeper into AI agents with my project  **GoldPath**—a pipeline for AI agents to ship software without human in the loop using Claude Code and GitHub Actions.
+I’m a software engineer focused on building reliable, trustworthy web applications and backend systems.  <br>
 
-### ✍️ Technical Writing & Blog
-I use my personal website to document what I learn in the field, and share post-mortems on framework implementations. 
-My posts focus on practical problem-solving and real-world trade-offs. You can read my latest write-ups, check out my full portfolio, and follow my work over at **[ghadeerhayek.dev](https://ghadeerhayek.github.io)**.
+My engineering mindset revolves around writing high-quality, well-documented code, supported by its tests, and understanding the core trade-offs of the tools I use. <br>
+
+Right now, I'm working on updating **PalAST**: a ML pipeline for Automated Disk Diffusion Antimicrobial Susceptibility Testing using Flask and OpenCV <br>
+I am also diving deeper into AI agents with my _upcoming_ project  **GoldPath**: The blessed stack for a pipeline for AI agents to ship software without human in the loop using Claude Code and GitHub Actions.
+
+### My Blog
+My strongest suit is that I can learn anything, and with the AI out there - that speed has multiplied. <br> 
+
+I created a personal website to document what I learn in the field, and what share post-mortems on framework implementations. My posts
+should be practical problem-solving and real-world trade-offs. Check it out here: **[ghadeerhayek.dev](https://ghadeerhayek.github.io)**
 
 ---
 
