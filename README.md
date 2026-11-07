@@ -8,11 +8,11 @@ while diving deeper into AI agents with my project  **GoldPath**—a pipeline fo
 
 ### ✍️ Technical Writing & Blog
 I use my personal website to document what I learn in the field, and share post-mortems on framework implementations. 
-My posts focus on practical problem-solving and real-world trade-offs. You can read my latest write-ups, check out my full portfolio, and follow my work over at **[yourname.dev](https://yourname.github.io)**. #TODO
+My posts focus on practical problem-solving and real-world trade-offs. You can read my latest write-ups, check out my full portfolio, and follow my work over at **[ghadeerhayek.dev](https://ghadeerhayek.github.io)**.
 
 ---
 
 ### 🌐 Connect With Me
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourname.github.io) #TODO
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ghadeerhayek.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghadeer-hayek)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghadeerhayek)
